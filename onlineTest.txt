@@ -1,2 +1,3 @@
 test
 asdf asd fasdf
+This is the third line added with vi.
