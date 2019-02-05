@@ -1,1 +1,2 @@
-This is test 6.  Looking to create a real merge.
+This is test 6.  Looking to create a real merge. 
+Text I added.
